@@ -1,8 +1,6 @@
 # rZone
 Research Zone
 
-## FYI
-
      ./rZone
       `-- README.md
 
@@ -17,5 +15,4 @@ Research Zone
           |   `-- README.md
           `-- README.md
 
-      4 directories, 6 files (Tue Jun 29 06:11:56 JST 2021
-)
+      4 directories, 6 files (Tue Jun 29 06:11:56 JST 2021)
