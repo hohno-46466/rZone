@@ -1,5 +1,4 @@
-# rZone
-Research Zone
+# rZone - Research Zone
 
     ./rZone
      `-- README.md
