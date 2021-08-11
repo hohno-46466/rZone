@@ -1,4 +1,4 @@
-# rZone - Research Zone
+# GitHub/rZone - Research Zone
 
     ./rZone
      `-- README.md
@@ -15,3 +15,5 @@
          `-- README.md
 
      4 directories, 6 files (Tue Jun 29 06:11:56 JST 2021)
+
+-EOF-
