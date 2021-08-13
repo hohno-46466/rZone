@@ -16,4 +16,6 @@
 
      4 directories, 6 files (Tue Jun 29 06:11:56 JST 2021)
 
+Note: 	url = https://github.com/hohno-46466/rZone
+
 -EOF-
