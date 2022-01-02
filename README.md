@@ -1,5 +1,7 @@
 # GitHub/rZone - Research Zone
 
+Research Zone
+
     rZone
      └── README.md
 
@@ -42,8 +44,8 @@
      
      12 directories, 18 files (Sat 11 Sep 2021 11:30:41 PM JST)
 
-Note: 	url = https://github.com/hohno-46466/rZone
+Note:	url = https://github.com/hohno-46466/rZone
 
-Note:   url = git@github.com:hohno-46466/rZone.git
+Note:	url = git@github.com:hohno-46466/rZone.git
 
 -EOF-
