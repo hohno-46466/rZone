@@ -92,8 +92,8 @@ Research Zone
      13 directories, 60 files (Mon Aug  8 02:56:13 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/rZone
+Note: URL = https://github.com/hohno-46466/rZone
 
-Note: url = git@github.com:hohno-46466/rZone.git
+Note: URL = git@github.com:hohno-46466/rZone.git
 
 -EOF-
