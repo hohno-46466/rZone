@@ -6,13 +6,18 @@ Research Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Fri Aug 12 21:57:36 JST 2022)
+     0 directories, 2 files (Sat Aug 20 23:45:40 JST 2022)
 
     ./rZone--BigDataProcessing
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Fri Aug 12 21:57:36 JST 2022)
+     0 directories, 2 files (Sat Aug 20 23:45:40 JST 2022)
+
+    ./rZone--Monogramming
+     └──  README.md
+     
+     0 directories, 1 file (Sat Aug 20 23:45:41 JST 2022)
 
     ./rZone--RaspberryGate--WDT
      ├──  Arduino/
@@ -89,7 +94,42 @@ Research Zone
      └──  workspace/
          └──  README.md
      
-     13 directories, 60 files (Fri Aug 12 21:57:36 JST 2022)
+     13 directories, 60 files (Sat Aug 20 23:45:41 JST 2022)
+
+    ./rZone--misc--IP65_SensorBox-N
+     ├──  README.md
+     └──  SensorBox1/
+         ├──  README.md
+         ├──  Scripts/
+         │   └──  README.md
+         ├──  data/
+         │   └──  README.md
+         ├──  docs/
+         │   └──  README.md
+         └──  src/
+             └──  README.md
+     
+     5 directories, 6 files (Sat Aug 20 23:45:41 JST 2022)
+
+    ./rZone--misc--RemoteSensingSystem1
+     ├──  README.md
+     ├──  Scripts/
+     │   └──  README.md
+     ├──  docs/
+     │   └──  README.md
+     ├──  examples/
+     │   ├──  ESP32-A3-WeatherClientSample/
+     │   │   ├──  ESP32-A3-WeatherClientSample.ino
+     │   │   └──  secret_template.h
+     │   ├──  M5STACK-WeatherServerSample/
+     │   │   └──  M5STACK-WeatherServerSample.ino
+     │   └──  README.md
+     └──  src/
+         ├──  ESP32/
+         │   └──  README.md
+         └──  README.md
+     
+     7 directories, 9 files (Sat Aug 20 23:45:41 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/rZone

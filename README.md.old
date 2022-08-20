@@ -6,13 +6,13 @@ Research Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Mon Aug  8 02:56:13 JST 2022)
+     0 directories, 2 files (Fri Aug 12 21:57:36 JST 2022)
 
     ./rZone--BigDataProcessing
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Mon Aug  8 02:56:13 JST 2022)
+     0 directories, 2 files (Fri Aug 12 21:57:36 JST 2022)
 
     ./rZone--RaspberryGate--WDT
      ├──  Arduino/
@@ -89,7 +89,7 @@ Research Zone
      └──  workspace/
          └──  README.md
      
-     13 directories, 60 files (Mon Aug  8 02:56:13 JST 2022)
+     13 directories, 60 files (Fri Aug 12 21:57:36 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/rZone
