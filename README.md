@@ -2,25 +2,25 @@
 
 Research Zone
 
-    ./rZone
+     ./rZone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Tue Sep  6 22:12:23 JST 2022)
+     0 directories, 2 files (Mon Sep 19 13:31:27 JST 2022)
 
-    ./rZone--BigDataProcessing
+     ./rZone--BigDataProcessing
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Tue Sep  6 22:12:23 JST 2022)
+     0 directories, 2 files (Mon Sep 19 13:31:27 JST 2022)
 
-    ./rZone--Monogramming
+     ./rZone--Monogramming
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Tue Sep  6 22:12:23 JST 2022)
+     0 directories, 2 files (Mon Sep 19 13:31:27 JST 2022)
 
-    ./rZone--RaspberryGate--WDT
+     ./rZone--RaspberryGate--WDT
      ├──  Arduino/
      │   ├──  ATtiny85/
      │   │   └──  README.md
@@ -31,6 +31,7 @@ Research Zone
      │   │   └──  sketch_20220110_test1.ino
      │   ├──  sketch_20220111_newWDT/
      │   │   ├──  BACKUP/
+     │   │   │   ├──  sketch_20220111_newWDT.ino.bak
      │   │   │   ├──  sketch_20220111_newWDT=20220113-1.ino
      │   │   │   └──  tasks.ino
      │   │   ├──  README.md
@@ -94,9 +95,9 @@ Research Zone
      └──  workspace/
          └──  README.md
      
-     13 directories, 59 files (Tue Sep  6 22:12:23 JST 2022)
+     13 directories, 60 files (Mon Sep 19 13:31:27 JST 2022)
 
-    ./rZone--RaspberryWorkbench--DPSWS2022
+     ./rZone--RaspberryWorkbench--DPSWS2022
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -132,9 +133,6 @@ Research Zone
      │       ├──  desktop.ini
      │       ├──  doit-wsl.sh
      │       ├──  doit.sh
-     │       ├──  dpsws2022-RaspberryWorkbench.aux
-     │       ├──  dpsws2022-RaspberryWorkbench.dvi
-     │       ├──  dpsws2022-RaspberryWorkbench.log
      │       ├──  dpsws2022-RaspberryWorkbench.pdf
      │       ├──  dpsws2022-RaspberryWorkbench.tex
      │       ├──  ebibsample.bib
@@ -150,15 +148,18 @@ Research Zone
      │       ├──  old/
      │       └──  tmp/
      ├──  dpsws2022-1-latest -> dpsws2022-1
-     └──  misc/
-         ├──  ipsj_v4/
-         │   ├──  SJIS/
-         │   └──  UTF8/
-         └──  ipsj_v4.zip
+     ├──  memo.txt
+     ├──  misc/
+     │   ├──  ipsj_v4/
+     │   │   ├──  SJIS/
+     │   │   └──  UTF8/
+     │   └──  ipsj_v4.zip
+     └──  tmp/
+         └──  README.md
      
-     19 directories, 39 files (Tue Sep  6 22:12:23 JST 2022)
+     20 directories, 38 files (Mon Sep 19 13:31:27 JST 2022)
 
-    ./rZone--misc--IP65_SensorBox-N
+     ./rZone--misc--IP65_SensorBox-N
      ├──  README.md
      ├──  README.md.old
      └──  SensorBox1/
@@ -172,9 +173,9 @@ Research Zone
          └──  src/
              └──  README.md
      
-     5 directories, 7 files (Tue Sep  6 22:12:23 JST 2022)
+     5 directories, 7 files (Mon Sep 19 13:31:27 JST 2022)
 
-    ./rZone--misc--RemoteSensingSystem1
+     ./rZone--misc--RemoteSensingSystem1
      ├──  README.md
      ├──  README.md.old
      ├──  Scripts/
@@ -193,7 +194,7 @@ Research Zone
          │   └──  README.md
          └──  README.md
      
-     7 directories, 10 files (Tue Sep  6 22:12:23 JST 2022)
+     7 directories, 10 files (Mon Sep 19 13:31:27 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/rZone
