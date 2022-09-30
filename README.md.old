@@ -2,25 +2,25 @@
 
 Research Zone
 
-     ./rZone
+    ./rZone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Sat Sep 24 17:41:46 JST 2022)
+     0 directories, 2 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./rZone--BigDataProcessing
+    ./rZone--BigDataProcessing
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Sat Sep 24 17:41:46 JST 2022)
+     0 directories, 2 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./rZone--Monogramming
+    ./rZone--Monogramming
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Sat Sep 24 17:41:46 JST 2022)
+     0 directories, 2 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./rZone--RaspberryGate--WDT
+    ./rZone--RaspberryGate--WDT
      ├──  Arduino/
      │   ├──  ATtiny85/
      │   │   └──  README.md
@@ -31,7 +31,6 @@ Research Zone
      │   │   └──  sketch_20220110_test1.ino
      │   ├──  sketch_20220111_newWDT/
      │   │   ├──  BACKUP/
-     │   │   │   ├──  sketch_20220111_newWDT.ino.bak
      │   │   │   ├──  sketch_20220111_newWDT=20220113-1.ino
      │   │   │   └──  tasks.ino
      │   │   ├──  README.md
@@ -95,9 +94,9 @@ Research Zone
      └──  workspace/
          └──  README.md
      
-     13 directories, 60 files (Sat Sep 24 17:41:46 JST 2022)
+     13 directories, 59 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./rZone--RaspberryWorkbench--DPSWS2022
+    ./rZone--RaspberryWorkbench--DPSWS2022
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -110,6 +109,9 @@ Research Zone
      │       ├──  desktop.ini
      │       ├──  doit-wsl.sh
      │       ├──  doit.sh
+     │       ├──  dpsws2022-RaspberryWorkbench.aux
+     │       ├──  dpsws2022-RaspberryWorkbench.dvi
+     │       ├──  dpsws2022-RaspberryWorkbench.log
      │       ├──  dpsws2022-RaspberryWorkbench.pdf
      │       ├──  dpsws2022-RaspberryWorkbench.tex
      │       ├──  ebibsample.bib
@@ -123,6 +125,7 @@ Research Zone
      │       ├──  main.tex
      │       ├──  main.tex-20220826-2355
      │       ├──  old/
+     │       ├──  texput.log
      │       └──  tmp/
      ├──  dpsws2022-1-20220826-2355/
      │   ├──  old/
@@ -133,6 +136,9 @@ Research Zone
      │       ├──  desktop.ini
      │       ├──  doit-wsl.sh
      │       ├──  doit.sh
+     │       ├──  dpsws2022-RaspberryWorkbench.aux
+     │       ├──  dpsws2022-RaspberryWorkbench.dvi
+     │       ├──  dpsws2022-RaspberryWorkbench.log
      │       ├──  dpsws2022-RaspberryWorkbench.pdf
      │       ├──  dpsws2022-RaspberryWorkbench.tex
      │       ├──  ebibsample.bib
@@ -157,6 +163,9 @@ Research Zone
      │       ├──  desktop.ini
      │       ├──  doit-wsl.sh
      │       ├──  doit.sh
+     │       ├──  dpsws2022-RaspberryWorkbench.aux
+     │       ├──  dpsws2022-RaspberryWorkbench.dvi
+     │       ├──  dpsws2022-RaspberryWorkbench.log
      │       ├──  dpsws2022-RaspberryWorkbench.pdf
      │       ├──  dpsws2022-RaspberryWorkbench.tex
      │       ├──  ebibsample.bib
@@ -180,6 +189,9 @@ Research Zone
      │       ├──  desktop.ini
      │       ├──  doit-wsl.sh
      │       ├──  doit.sh
+     │       ├──  dpsws2022-RaspberryWorkbench.aux
+     │       ├──  dpsws2022-RaspberryWorkbench.dvi
+     │       ├──  dpsws2022-RaspberryWorkbench.log
      │       ├──  dpsws2022-RaspberryWorkbench.pdf
      │       ├──  dpsws2022-RaspberryWorkbench.tex
      │       ├──  ebibsample.bib
@@ -194,7 +206,41 @@ Research Zone
      │       ├──  main.tex-20220826-2355
      │       ├──  old/
      │       └──  tmp/
-     ├──  dpsws2022-latest -> dpsws2022-2
+     ├──  dpsws2022-3/
+     │   ├──  misc/
+     │   │   ├──  dpsws-latex-template/
+     │   │   └──  dpsws-latex-template.zip
+     │   ├──  old/
+     │   │   └──  memo.txt
+     │   ├──  pLaTeX/
+     │   │   ├──  _main-utf8.tex
+     │   │   ├──  bibsample.bib
+     │   │   ├──  desktop.ini
+     │   │   ├──  doit-wsl.sh
+     │   │   ├──  doit.sh
+     │   │   ├──  dpsws.cls
+     │   │   ├──  dpsws.sty
+     │   │   ├──  dpsws2022-RaspberryWorkbench.aux
+     │   │   ├──  dpsws2022-RaspberryWorkbench.dvi
+     │   │   ├──  dpsws2022-RaspberryWorkbench.log
+     │   │   ├──  dpsws2022-RaspberryWorkbench.pdf
+     │   │   ├──  dpsws2022-RaspberryWorkbench.tex
+     │   │   ├──  dpsws2022-RaspberryWorkbench.tex-20220925-2049
+     │   │   ├──  ebibsample.bib
+     │   │   ├──  figspics/
+     │   │   ├──  ipsj/
+     │   │   ├──  ipsj.cls -> ipsj/ipsj.cls
+     │   │   ├──  ipsjpref.sty -> ipsj/ipsjpref.sty
+     │   │   ├──  ipsjsort.bst -> ipsj/ipsjsort.bst
+     │   │   ├──  ipsjtech.sty -> ipsj/ipsjtech.sty
+     │   │   ├──  ipsjunsrt.bst -> ipsj/ipsjunsrt.bst
+     │   │   ├──  main.tex
+     │   │   ├──  main.tex-20220826-2355
+     │   │   ├──  main.tex-20220925-2049
+     │   │   ├──  main.tex-20220926-0850
+     │   │   └──  tmp/
+     │   └──  sigjouto.pdf
+     ├──  dpsws2022-latest -> dpsws2022-3
      ├──  memo.txt
      ├──  misc/
      │   ├──  ipsj_v4/
@@ -204,9 +250,9 @@ Research Zone
      └──  tmp/
          └──  README.md
      
-     35 directories, 70 files (Sat Sep 24 17:41:46 JST 2022)
+     43 directories, 109 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./rZone--misc--IP65_SensorBox-N
+    ./rZone--misc--IP65_SensorBox-N
      ├──  README.md
      ├──  README.md.old
      └──  SensorBox1/
@@ -220,9 +266,9 @@ Research Zone
          └──  src/
              └──  README.md
      
-     5 directories, 7 files (Sat Sep 24 17:41:46 JST 2022)
+     5 directories, 7 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./rZone--misc--RemoteSensingSystem1
+    ./rZone--misc--RemoteSensingSystem1
      ├──  README.md
      ├──  README.md.old
      ├──  Scripts/
@@ -241,7 +287,7 @@ Research Zone
          │   └──  README.md
          └──  README.md
      
-     7 directories, 10 files (Sat Sep 24 17:41:46 JST 2022)
+     7 directories, 10 files (Fri Sep 30 22:02:06 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/rZone
