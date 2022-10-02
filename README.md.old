@@ -6,19 +6,27 @@ Research Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Fri Sep 30 22:02:06 JST 2022)
+     0 directories, 2 files (Sat Oct  1 06:10:44 JST 2022)
 
     ./rZone--BigDataProcessing
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Fri Sep 30 22:02:06 JST 2022)
+     0 directories, 2 files (Sat Oct  1 06:10:44 JST 2022)
 
     ./rZone--Monogramming
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Fri Sep 30 22:02:06 JST 2022)
+     0 directories, 2 files (Sat Oct  1 06:10:44 JST 2022)
+
+    ./rZone--MonogrammingEducation--JSiSE2211
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     └──  ws01/
+         └──  README.md
+     
+     1 directory, 3 files (Sat Oct  1 06:10:44 JST 2022)
 
     ./rZone--RaspberryGate--WDT
      ├──  Arduino/
@@ -94,7 +102,7 @@ Research Zone
      └──  workspace/
          └──  README.md
      
-     13 directories, 59 files (Fri Sep 30 22:02:06 JST 2022)
+     13 directories, 59 files (Sat Oct  1 06:10:44 JST 2022)
 
     ./rZone--RaspberryWorkbench--DPSWS2022
      ├──  ==PrivateRepository==
@@ -250,7 +258,7 @@ Research Zone
      └──  tmp/
          └──  README.md
      
-     43 directories, 109 files (Fri Sep 30 22:02:06 JST 2022)
+     43 directories, 109 files (Sat Oct  1 06:10:44 JST 2022)
 
     ./rZone--misc--IP65_SensorBox-N
      ├──  README.md
@@ -266,7 +274,7 @@ Research Zone
          └──  src/
              └──  README.md
      
-     5 directories, 7 files (Fri Sep 30 22:02:06 JST 2022)
+     5 directories, 7 files (Sat Oct  1 06:10:44 JST 2022)
 
     ./rZone--misc--RemoteSensingSystem1
      ├──  README.md
@@ -287,7 +295,7 @@ Research Zone
          │   └──  README.md
          └──  README.md
      
-     7 directories, 10 files (Fri Sep 30 22:02:06 JST 2022)
+     7 directories, 10 files (Sat Oct  1 06:10:44 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/rZone
