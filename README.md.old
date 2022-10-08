@@ -6,28 +6,75 @@ Research Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Sun Oct  2 11:01:42 JST 2022)
+     0 directories, 2 files (Thu Oct  6 16:11:05 JST 2022)
 
     ./rZone--BigDataProcessing
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Sun Oct  2 11:01:42 JST 2022)
+     0 directories, 2 files (Thu Oct  6 16:11:05 JST 2022)
 
     ./rZone--Monogramming
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Sun Oct  2 11:01:42 JST 2022)
+     0 directories, 2 files (Thu Oct  6 16:11:05 JST 2022)
 
     ./rZone--MonogrammingEducation--JSiSE2211
+     ├──  0.Contents/
+     │   ├──  1.LaTeX/
+     │   │   ├──  README.md
+     │   │   ├──  main-utf8.tex
+     │   │   ├──  main-utf8.tex-20221004-1457
+     │   │   ├──  main-utf8.tex-20221004-2237
+     │   │   ├──  main-utf8.tex-20221004-235623
+     │   │   ├──  main-utf8.tex-DPSWSstyleReadyFinal
+     │   │   ├──  sec02.tex
+     │   │   ├──  sec04.tex
+     │   │   ├──  sec07.tex
+     │   │   └──  sec09.tex
+     │   ├──  2.FigsPics/
+     │   │   ├──  Paper_JSiSE2022-04_Fig.png
+     │   │   ├──  README.md
+     │   │   └──  Timeline_of_Monogramming.png
+     │   ├──  JSiSE.sty
+     │   ├──  JSiSE_SIG_202211-DPSWSstyle-LocalLaTeX.pdf
+     │   ├──  JSiSE_SIG_202211-DPSWSstyle-LocalLaTeX.tex
+     │   ├──  JSiSE_SIG_202211-DPSWSstyle-Overleaf.pdf
+     │   ├──  JSiSE_SIG_202211-DPSWSstyle-Overleaf.tex
+     │   ├──  JSiSE_SIG_202211-Overleaf.out
+     │   ├──  JSiSE_SIG_202211-Overleaf.tex
+     │   ├──  JSiSE_SIG_202211.aux
+     │   ├──  JSiSE_SIG_202211.dvi
+     │   ├──  JSiSE_SIG_202211.log
+     │   ├──  JSiSE_SIG_202211.out
+     │   ├──  JSiSE_SIG_202211.pdf
+     │   ├──  JSiSE_SIG_202211.tex
+     │   ├──  README.md
+     │   ├──  bibsample-overleaf.bib
+     │   ├──  bibsample.bib
+     │   ├──  cite.sty
+     │   ├──  dpsws-overleaf.cls
+     │   ├──  dpsws-overleaf.cls-20221004-2203
+     │   ├──  dpsws-overleaf.sty
+     │   ├──  dpsws.cls
+     │   ├──  dpsws.sty
+     │   ├──  ipsjsort-overleaf.bst
+     │   ├──  ipsjsort.bst
+     │   ├──  ipsjunsrt-overleaf.bst
+     │   └──  ipsjunsrt.bst
      ├──  ==PrivateRepository==
+     ├──  OLD/
      ├──  README.md
      ├──  README.md.old
-     └──  ws01/
-         └──  README.md
+     ├──  latexmkrc
+     ├──  misc/
+     │   └──  README.md
+     ├──  rZone__MonogrammingEducation__JSiSE2211-20221006-0004.pdf
+     ├──  rZone__MonogrammingEducation__JSiSE2211-final.pdf -> rZone__MonogrammingEducation__JSiSE2211-20221006-0004.pdf
+     └──  texput.log
      
-     1 directory, 4 files (Sun Oct  2 11:01:42 JST 2022)
+     5 directories, 47 files (Thu Oct  6 16:11:05 JST 2022)
 
     ./rZone--RaspberryGate--WDT
      ├──  Arduino/
@@ -103,7 +150,7 @@ Research Zone
      └──  workspace/
          └──  README.md
      
-     13 directories, 59 files (Sun Oct  2 11:01:42 JST 2022)
+     13 directories, 59 files (Thu Oct  6 16:11:05 JST 2022)
 
     ./rZone--RaspberryWorkbench--DPSWS2022
      ├──  ==PrivateRepository==
@@ -215,7 +262,8 @@ Research Zone
      │       ├──  main.tex-20220826-2355
      │       ├──  old/
      │       └──  tmp/
-     ├──  dpsws2022-3/
+     ├──  dpsws2022-3 -> dpsws2022-3-20220928-1809
+     ├──  dpsws2022-3-20220928-1809/
      │   ├──  misc/
      │   │   ├──  dpsws-latex-template/
      │   │   └──  dpsws-latex-template.zip
@@ -249,6 +297,41 @@ Research Zone
      │   │   ├──  main.tex-20220926-0850
      │   │   └──  tmp/
      │   └──  sigjouto.pdf
+     ├──  dpsws2022-3-20220928-1809-bakcup/
+     │   ├──  misc/
+     │   │   ├──  dpsws-latex-template/
+     │   │   └──  dpsws-latex-template.zip
+     │   ├──  old/
+     │   │   └──  memo.txt
+     │   ├──  pLaTeX/
+     │   │   ├──  _main-utf8.tex
+     │   │   ├──  bibsample.bib
+     │   │   ├──  desktop.ini
+     │   │   ├──  doit-wsl.sh
+     │   │   ├──  doit.sh
+     │   │   ├──  dpsws.cls
+     │   │   ├──  dpsws.sty
+     │   │   ├──  dpsws2022-RaspberryWorkbench.aux
+     │   │   ├──  dpsws2022-RaspberryWorkbench.dvi
+     │   │   ├──  dpsws2022-RaspberryWorkbench.log
+     │   │   ├──  dpsws2022-RaspberryWorkbench.pdf
+     │   │   ├──  dpsws2022-RaspberryWorkbench.tex
+     │   │   ├──  dpsws2022-RaspberryWorkbench.tex-20220925-2049
+     │   │   ├──  ebibsample.bib
+     │   │   ├──  figspics/
+     │   │   ├──  ipsj/
+     │   │   ├──  ipsj.cls -> ipsj/ipsj.cls
+     │   │   ├──  ipsjpref.sty -> ipsj/ipsjpref.sty
+     │   │   ├──  ipsjsort.bst -> ipsj/ipsjsort.bst
+     │   │   ├──  ipsjtech.sty -> ipsj/ipsjtech.sty
+     │   │   ├──  ipsjunsrt.bst -> ipsj/ipsjunsrt.bst
+     │   │   ├──  main.tex
+     │   │   ├──  main.tex-20220826-2355
+     │   │   ├──  main.tex-20220925-2049
+     │   │   ├──  main.tex-20220926-0850
+     │   │   └──  tmp/
+     │   └──  sigjouto.pdf
+     ├──  dpsws2022-final -> dpsws2022-3
      ├──  dpsws2022-latest -> dpsws2022-3
      ├──  memo.txt
      ├──  misc/
@@ -259,7 +342,7 @@ Research Zone
      └──  tmp/
          └──  README.md
      
-     43 directories, 109 files (Sun Oct  2 11:01:42 JST 2022)
+     53 directories, 135 files (Thu Oct  6 16:11:05 JST 2022)
 
     ./rZone--misc--IP65_SensorBox-N
      ├──  README.md
@@ -275,7 +358,7 @@ Research Zone
          └──  src/
              └──  README.md
      
-     5 directories, 7 files (Sun Oct  2 11:01:42 JST 2022)
+     5 directories, 7 files (Thu Oct  6 16:11:05 JST 2022)
 
     ./rZone--misc--RemoteSensingSystem1
      ├──  README.md
@@ -296,7 +379,7 @@ Research Zone
          │   └──  README.md
          └──  README.md
      
-     7 directories, 10 files (Sun Oct  2 11:01:42 JST 2022)
+     7 directories, 10 files (Thu Oct  6 16:11:05 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/rZone
