@@ -6,19 +6,19 @@ Research Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Wed Nov 23 10:36:51 JST 2022)
+     0 directories, 2 files (Mon Nov 28 14:16:11 JST 2022)
 
     ./rZone--BigDataProcessing
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Wed Nov 23 10:36:51 JST 2022)
+     0 directories, 2 files (Mon Nov 28 14:16:11 JST 2022)
 
     ./rZone--Monogramming
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Wed Nov 23 10:36:51 JST 2022)
+     0 directories, 2 files (Mon Nov 28 14:16:12 JST 2022)
 
     ./rZone--MonogrammingEducation--JSiSE2211
      ├──  0.Contents/
@@ -73,7 +73,7 @@ Research Zone
      ├──  rZone__MonogrammingEducation__JSiSE2211-20221006-0004.pdf
      └──  texput.log
      
-     5 directories, 46 files (Wed Nov 23 10:36:52 JST 2022)
+     5 directories, 46 files (Mon Nov 28 14:16:12 JST 2022)
 
     ./rZone--POSIX_Education_Syllubus_Survey
      ├──  Archive/
@@ -83,7 +83,7 @@ Research Zone
      ├──  Syllabus_20221107.pdf
      └──  Syllabus_latest.pdf -> Syllabus_20221107.pdf
      
-     1 directory, 5 files (Wed Nov 23 10:36:52 JST 2022)
+     1 directory, 5 files (Mon Nov 28 14:16:12 JST 2022)
 
     ./rZone--RaspberryGate--WDT
      ├──  Arduino/
@@ -152,14 +152,15 @@ Research Zone
      │   └──  README.md
      ├──  docs/
      │   ├──  README.md
-     │   └──  useful-information.txt
+     │   ├──  useful-information.txt
+     │   └──  useful-information.txt.bak
      ├──  memo/
      │   └──  README.md
      ├──  test.txt
      └──  workspace/
          └──  README.md
      
-     13 directories, 59 files (Wed Nov 23 10:36:52 JST 2022)
+     13 directories, 60 files (Mon Nov 28 14:16:12 JST 2022)
 
     ./rZone--RaspberryWorkbench--DPSWS2022
      ├──  ==PrivateRepository==
@@ -167,9 +168,11 @@ Research Zone
      ├──  README.md.old
      ├──  dpsws2022-1/
      │   ├──  old/
-     │   │   └──  00README.txt
+     │   │   ├──  00README.txt
+     │   │   └──  00README.txt.bak
      │   └──  pLaTeX/
      │       ├──  _main-utf8.tex
+     │       ├──  _main-utf8.tex.bak
      │       ├──  bibsample.bib
      │       ├──  desktop.ini
      │       ├──  doit-wsl.sh
@@ -189,12 +192,14 @@ Research Zone
      │       ├──  ipsjunsrt.bst -> ipsj/ipsjunsrt.bst
      │       ├──  main.tex
      │       ├──  main.tex-20220826-2355
+     │       ├──  main.tex.bak
      │       ├──  old/
      │       ├──  texput.log
      │       └──  tmp/
      ├──  dpsws2022-1-20220826-2355/
      │   ├──  old/
-     │   │   └──  00README.txt
+     │   │   ├──  00README.txt
+     │   │   └──  00README.txt.bak
      │   └──  pLaTeX/
      │       ├──  _main-utf8.tex
      │       ├──  bibsample.bib
@@ -216,12 +221,14 @@ Research Zone
      │       ├──  ipsjunsrt.bst -> ipsj/ipsjunsrt.bst
      │       ├──  main.tex
      │       ├──  main.tex-20220826-2355
+     │       ├──  main.tex.bak
      │       ├──  old/
      │       └──  tmp/
      ├──  dpsws2022-2 -> dpsws2022-2-20220920-2415
      ├──  dpsws2022-2-20220920-2356/
      │   ├──  old/
-     │   │   └──  00README.txt
+     │   │   ├──  00README.txt
+     │   │   └──  00README.txt.bak
      │   └──  pLaTeX/
      │       ├──  _main-utf8.tex
      │       ├──  bibsample.bib
@@ -247,7 +254,8 @@ Research Zone
      │       └──  tmp/
      ├──  dpsws2022-2-20220920-2415/
      │   ├──  old/
-     │   │   └──  00README.txt
+     │   │   ├──  00README.txt
+     │   │   └──  00README.txt.bak
      │   └──  pLaTeX/
      │       ├──  _main-utf8.tex
      │       ├──  bibsample.bib
@@ -277,7 +285,8 @@ Research Zone
      │   │   ├──  dpsws-latex-template/
      │   │   └──  dpsws-latex-template.zip
      │   ├──  old/
-     │   │   └──  memo.txt
+     │   │   ├──  memo.txt
+     │   │   └──  memo.txt.bak
      │   ├──  pLaTeX/
      │   │   ├──  _main-utf8.tex
      │   │   ├──  bibsample.bib
@@ -311,7 +320,8 @@ Research Zone
      │   │   ├──  dpsws-latex-template/
      │   │   └──  dpsws-latex-template.zip
      │   ├──  old/
-     │   │   └──  memo.txt
+     │   │   ├──  memo.txt
+     │   │   └──  memo.txt.bak
      │   ├──  pLaTeX/
      │   │   ├──  _main-utf8.tex
      │   │   ├──  bibsample.bib
@@ -351,7 +361,7 @@ Research Zone
      └──  tmp/
          └──  README.md
      
-     53 directories, 135 files (Wed Nov 23 10:36:52 JST 2022)
+     53 directories, 144 files (Mon Nov 28 14:16:12 JST 2022)
 
     ./rZone--misc--IP65_SensorBox-N
      ├──  README.md
@@ -367,7 +377,7 @@ Research Zone
          └──  src/
              └──  README.md
      
-     5 directories, 7 files (Wed Nov 23 10:36:52 JST 2022)
+     5 directories, 7 files (Mon Nov 28 14:16:12 JST 2022)
 
     ./rZone--misc--RemoteSensingSystem1
      ├──  README.md
@@ -388,7 +398,7 @@ Research Zone
          │   └──  README.md
          └──  README.md
      
-     7 directories, 10 files (Wed Nov 23 10:36:52 JST 2022)
+     7 directories, 10 files (Mon Nov 28 14:16:12 JST 2022)
 
     ./rZone--private--documents
      ├──  ==PrivateRepository==
@@ -401,7 +411,7 @@ Research Zone
          │   └──  README.md
          └──  README.md
      
-     3 directories, 6 files (Wed Nov 23 10:36:52 JST 2022)
+     3 directories, 6 files (Mon Nov 28 14:16:12 JST 2022)
 
     ./rZone--public--documents
      ├──  README.md
@@ -413,7 +423,7 @@ Research Zone
          │   └──  README.md
          └──  README.md
      
-     3 directories, 5 files (Wed Nov 23 10:36:52 JST 2022)
+     3 directories, 5 files (Mon Nov 28 14:16:12 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/rZone
